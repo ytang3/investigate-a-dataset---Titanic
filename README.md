@@ -9,3 +9,5 @@
 * README.md: this file
 * investigate_titanic.html: html version of project analysis report
 * titanic-data.csv: data
+
+## Notes：
