@@ -11,3 +11,4 @@
 * titanic-data.csv: data
 
 ## Notes：
+This project was completed in Jupyter Notebook. You can view the HTML output by downloading and opening investigate_tiatanic.html.
