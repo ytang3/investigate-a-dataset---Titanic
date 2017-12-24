@@ -12,3 +12,6 @@
 
 ## Notes：
 This project was completed in Jupyter Notebook. You can view the HTML output by downloading and opening investigate_tiatanic.html.
+
+## Tableau Visualization:
+https://public.tableau.com/views/Book1copy_1/Story1?:embed=y&:display_count=yes
